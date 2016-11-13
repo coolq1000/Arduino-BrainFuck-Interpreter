@@ -1,4 +1,4 @@
-// Created by coolq.
+// Created by coolq
 
 String code = "+++++ [ > + < - ]"; 
 int cells[] = {0,0,0,0,0,0,0,0};
