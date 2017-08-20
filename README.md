@@ -11,4 +11,4 @@ I created this with the default IDE version 1.6.11 and an Arduino Uno.
 
 ## Update
 
-Unfortunenly, I wrote this a long time ago... So I only just recently realized that it will not work with nested loops. Keep this in mind!
+Unfortunately, I wrote this a long time ago... So I only just recently realized that it will not work with nested loops. Keep this in mind!
